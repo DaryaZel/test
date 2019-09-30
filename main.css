@@ -10,7 +10,7 @@ body{
 }
 .logo{
     position: absolute;
-    right: 1250px;
+    left: 100px;
 }
 .nav{
     margin-top: 80px;
