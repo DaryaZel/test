@@ -2,7 +2,6 @@ body{
     background: #ffffff;
     font-family: 'Work Sans', sans-serif;
     color: #314584;
-    position: relative;
 }
 .wrapper{
     max-width: 1024px;
@@ -10,9 +9,10 @@ body{
 }
 .logo{
     position: absolute;
-    left: 100px;
+    right: 1100px;
 }
 .nav{
+    position: relative;
     margin-top: 80px;
     display: flex;
     justify-content: space-between;
